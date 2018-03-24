@@ -1,4 +1,4 @@
-# CSimple_Compiler
+# CSimple Compiler
 Scan, parse, semantics and 3AC for csimple
 
 This project have 3 parts:
