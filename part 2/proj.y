@@ -1,8 +1,3 @@
-/*	Aviv Adar 208897371
-	Amit Twati 318278181
-	Yarden Cherry 
-*/
-
 %{
 #include <stdio.h>
 #include <stdlib.h>
